@@ -23,6 +23,11 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
+
+.site-nav .link.current {
+  color: var(--accent-text-color);
+}
+
 .site-nav .link:focus,
 .site-nav .link:hover {
   color: var(--accent-text-color);
@@ -137,7 +142,7 @@ body {
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.2px;
+  line-height: 1.2;
 }
 .logo.two {
   color: var(--secondary-text-color);

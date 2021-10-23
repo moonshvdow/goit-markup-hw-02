@@ -6,7 +6,7 @@
   --primary-bg-color: #ffffff;
   --another-text-color: #ffffff;
   --button-bg-color: #f5f4fa;
-  --address-text-color: rgba(255, 255, 255, 0, 6);
+  --address-text-color: rgba(255, 255, 255, 0.6);
 }
 
 body {
